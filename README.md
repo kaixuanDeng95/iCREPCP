@@ -11,4 +11,3 @@ iCEEPCP is a deep learning-based web server to learn the cis-regulatory code and
 ```
 git clone git@https://github.com/kaixuanDeng95/iCREPCP.git
 ```
-### How to use
