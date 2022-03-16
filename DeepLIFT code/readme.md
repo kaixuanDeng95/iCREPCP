@@ -5,4 +5,4 @@ Running steps:
 2. Modify the path of each file in deeplift_plot.py and run deeplift_plot.py;
 3. To view the DeepLIFT graph or DeepLIFT scores of other sequences, just modify the sequence number in selected_index.txt and repeat steps 1 and 2. 
 </p>
-<p>Click https://github.com/kundajelab/deeplift to konw more about deepLIFT.</p>
+<p>Go to https://github.com/kundajelab/deeplift to konw more about deepLIFT.</p>
