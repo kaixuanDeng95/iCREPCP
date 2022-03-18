@@ -1,6 +1,8 @@
 <h4>File Description</h4>
 <ul>
   <li>The code in file densenet.py is the training code of DenseNet model</li>
+  <li>The code in predict.py can be used to predict the promoter strength of any given promoters.</li>
+  <li>The files cnn_densenet_leaf1.h5 and cnn_densenet_proto2.h5 are our trained tabacco leaves model and maize protoplasts model</li>
 </ul>
 
 <h4>The architecture of DenseNet model</h4>
