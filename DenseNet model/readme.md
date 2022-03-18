@@ -1,8 +1,8 @@
 <h4>File Description</h4>
 <ul>
-  <li>The code in file densenet.py is the training code of DenseNet model</li>
+  <li>The code in file densenet.py is the training code of DenseNet model.</li>
   <li>The code in predict.py can be used to predict the promoter strength of any given promoters.</li>
-  <li>The files cnn_densenet_leaf1.h5 and cnn_densenet_proto2.h5 are our trained tabacco leaves model and maize protoplasts model</li>
+  <li>The files cnn_densenet_leaf1.h5 and cnn_densenet_proto2.h5 are our trained tabacco leaves model and maize protoplasts model.</li>
 </ul>
 <h4>DenseNet model Description</h4>
 <p>‘DenseNet’ has won the best paper award of CVPR 2017, and it connects each layer to every other layer within each DenseBlock to implement the advantage of feature reuse, thus alleviating the vanishing-gradient problem.</p>
