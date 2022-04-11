@@ -1,6 +1,6 @@
 # iCREPCP
 <p>
-iCREPCP is a deep learning-based web server which has learned the <em>cis</em>-regulatory code of plant core promoters from three plant species of Arabidopsis, maize and sorghum. As an application, it can accurately <strong>i</strong>dentify which <em><strong>c</strong>is</em>-<strong>r</strong>egulatory <strong>e</strong>lements (CREs) a given <strong>p</strong>lant <strong>c</strong>ore <strong>p</strong>romoter contains, as well as locate the exact position of each CRE (at base resolution) and its contribution to the plant core promoter's activity.</p>
+iCREPCP is a deep learning-based web server which has learned the <em>cis</em>-regulatory code of plant core promoters from three plant species of Arabidopsis, maize and sorghum. As an application, it can accurately <strong>i</strong>dentify which <em><strong>c</strong>is</em>-<strong>r</strong>egulatory <strong>e</strong>lements (CREs) a given <strong>p</strong>lant <strong>c</strong>ore <strong>p</strong>romoter contains, as well as locate the exact position of each CRE (at base resolution) and its contribution to the plant core promoter's activity.</p>Our website is www.hzau-hulab.com/icrepcp/.
 
 **Citation**: Kaixuan Deng#, Qizhe Zhang#, Yuxin Hong, Jianbing Yan* and Xuehai Hu*(2022), iCREPCP: a deep learning-based web server for identifying critical cis-regulatory elements within plant core promoters.<br>
 
